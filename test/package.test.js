@@ -1,7 +1,7 @@
 /* global describe, it */
 
-var flowstate = require('..');
-var expect = require('chai').expect;
+const flowstate = require('..');
+const expect = require('chai').expect;
 
 
 describe('flowstate', function() {
